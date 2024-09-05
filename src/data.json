@@ -1,0 +1,206 @@
+{
+  "earphones": {
+    "yx1-wireless-earphones": {
+      "id": "yx1-wireless-earphones",
+      "description": "Tailor your listening experience with bespoke dynamic drivers from the new YX1 Wireless Earphones. Enjoy incredible high-fidelity sound even in noisy environments with its active noise cancellation feature.",
+      "features": "Experience unrivalled stereo sound thanks to innovative acoustic technology. With improved ergonomics designed for full day wearing, these revolutionary earphones have been finely crafted to provide you with the perfect fit, delivering complete comfort all day long while enjoying exceptional noise isolation and truly immersive sound.\n\nThe YX1 Wireless Earphones features customizable controls for volume, music, calls, and voice assistants built into both earbuds. The new 7-hour battery life can be extended up to 28 hours with the charging case, giving you uninterrupted play time. Exquisite craftsmanship with a splash resistant design now available in an all new white and grey color scheme as well as the popular classic black.",
+      "gallery": [
+        "https://firebasestorage.googleapis.com/v0/b/audiophile-e-commerce-15eba.appspot.com/o/yx1-earphones-image-gallery-1.jpg?alt=media&token=35a7c8d4-4555-443e-89a6-20078d3f84a6",
+        "https://firebasestorage.googleapis.com/v0/b/audiophile-e-commerce-15eba.appspot.com/o/yx1-earphones-image-gallery-2.jpg?alt=media&token=80fb4799-28ca-41e0-8529-91d2e22625b8",
+        "https://firebasestorage.googleapis.com/v0/b/audiophile-e-commerce-15eba.appspot.com/o/yx1-earphones-image-gallery-3.jpg?alt=media&token=270fb251-c496-414e-a0d7-04b0cc80585c"
+      ],
+      "inTheBox": [
+        {
+          "amount": "2x",
+          "item": "Earphone Unit"
+        },
+        {
+          "amount": "6x",
+          "item": "Multi-size Earplugs"
+        },
+        {
+          "amount": "1x",
+          "item": "User Manual"
+        },
+        {
+          "amount": "1x",
+          "item": "USB-C Charging Cable"
+        },
+        {
+          "amount": "1x",
+          "item": "Travel Pouch"
+        }
+      ],
+      "price": "599",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/audiophile-e-commerce-15eba.appspot.com/o/yx1-earphones-image-product.jpg?alt=media&token=35af5d51-3c6b-41b7-9e36-06e6271adc44",
+      "title": "YX1 WIRELESS EARPHONES"
+    }
+  },
+  "headphones": {
+    "xx99-mark-i-headphones": {
+      "id": "xx99-mark-i-headphones",
+      "description": "As the gold standard for headphones, the classic XX99 Mark I offers detailed and accurate audio reproduction for audiophiles, mixing engineers, and music aficionados alike in studios and on the go.",
+      "features": "As the headphones all others are measured against, the XX99 Mark I demonstrates over five decades of audio expertise, redefining the critical listening experience. This pair of closed-back headphones are made of industrial, aerospace-grade materials to emphasize durability at a relatively light weight of 11 oz.\n\nFrom the handcrafted microfiber ear cushions to the robust metal headband with inner damping element, the components work together to deliver comfort and uncompromising sound. Its closed-back design delivers up to 27 dB of passive noise cancellation, reducing resonance by reflecting sound to a dedicated absorber. For connectivity, a specially tuned cable is included with a balanced gold connector.",
+      "gallery": [
+        "https://firebasestorage.googleapis.com/v0/b/audiophile-e-commerce-15eba.appspot.com/o/xx99-mark-one-headphones-image-gallery-1.jpg?alt=media&token=77bc512f-3935-4c2a-a373-f6c97ecf799d",
+        "https://firebasestorage.googleapis.com/v0/b/audiophile-e-commerce-15eba.appspot.com/o/xx99-mark-one-headphones-image-gallery-2.jpg?alt=media&token=23e108c5-7ac1-448c-afa1-444b9076b6c1",
+        "https://firebasestorage.googleapis.com/v0/b/audiophile-e-commerce-15eba.appspot.com/o/xx99-mark-one-headphones-image-gallery-3.jpg?alt=media&token=41b94127-f3c2-4a5b-91b1-1e93d7f87fd8"
+      ],
+      "inTheBox": [
+        {
+          "amount": "1x",
+          "item": "Headphone Unit"
+        },
+        {
+          "amount": "2x",
+          "item": "Replacement Earcups"
+        },
+        {
+          "amount": "1x",
+          "item": "User Manual"
+        },
+        {
+          "amount": "1x",
+          "item": "3.5mm 5m Audio Cable"
+        }
+      ],
+      "price": "1750",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/audiophile-e-commerce-15eba.appspot.com/o/xx99-mark-one-headphones-image-product.jpg?alt=media&token=6589ee70-4308-4c20-9714-2cf71d31c88c",
+      "title": "XX99 Mark I Headphones"
+    },
+    "xx59-headphones": {
+      "id": "xx59-headphones",
+      "description": "Enjoy your audio almost anywhere and customize it to your specific tastes with the XX59 headphones. The stylish yet durable versatile wireless headset is a brilliant companion at home or on the move.",
+      "features": "These headphones have been created from durable, high-quality materials tough enough to take anywhere. Its compact folding design fuses comfort and minimalist style making it perfect for travel. Flawless transmission is assured by the latest wireless technology engineered for audio synchronization with videos.\n\nMore than a simple pair of headphones, this headset features a pair of built-in microphones for clear, hands-free calling when paired with a compatible smartphone. Controlling music and calls is also intuitive thanks to easy-access touch buttons on the earcups. Regardless of how you use the XX59 headphones, you can do so all day thanks to an impressive 30-hour battery life that can be rapidly recharged via USB-C.",
+      "gallery": [
+        "https://firebasestorage.googleapis.com/v0/b/audiophile-e-commerce-15eba.appspot.com/o/xx59-headphones-image-gallery-1.jpg?alt=media&token=ff2e533c-8dfc-46b6-9442-04a61090dbb9",
+        "https://firebasestorage.googleapis.com/v0/b/audiophile-e-commerce-15eba.appspot.com/o/xx59-headphones-image-gallery-2.jpg?alt=media&token=40af151f-c3b1-4aef-bc3b-5cb703cf3d70",
+        "https://firebasestorage.googleapis.com/v0/b/audiophile-e-commerce-15eba.appspot.com/o/xx59-headphones-image-gallery-3.jpg?alt=media&token=14f1e529-e08d-4c52-bc71-d167c99ab7f1"
+      ],
+      "inTheBox": [
+        {
+          "amount": "1x",
+          "item": "Headphone Unit"
+        },
+        {
+          "amount": "2x",
+          "item": "Replacement Earcups"
+        },
+        {
+          "amount": "1x",
+          "item": "User Manual"
+        },
+        {
+          "amount": "1x",
+          "item": "3.5mm 5m Audio Cable"
+        }
+      ],
+      "price": "899",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/audiophile-e-commerce-15eba.appspot.com/o/xx59-headphones-image-product.jpg?alt=media&token=4054d4a7-e659-4e68-a07d-b691b8e4e580",
+      "title": "XX59 Headphones"
+    },
+    "xx99-mark-ii-headphones": {
+      "id": "xx99-mark-ii-headphones",
+      "description": "The new XX99 Mark II headphones is the pinnacle of pristine audio. It redefines your premium headphone experience by reproducing the balanced depth and precision of studio-quality sound.",
+      "features": "Featuring a genuine leather head strap and premium earcups, these headphones deliver superior comfort for those who like to enjoy endless listening. It includes intuitive controls designed for any situation. Whether you’re taking a business call or just in your own personal space, the auto on/off and pause features ensure that you’ll never miss a beat.\n\nThe advanced Active Noise Cancellation with built-in equalizer allow you to experience your audio world on your terms. It lets you enjoy your audio in peace, but quickly interact with your surroundings when you need to. Combined with Bluetooth 5. 0 compliant connectivity and 17 hour battery life, the XX99 Mark II headphones gives you superior sound, cutting-edge technology, and a modern design aesthetic.",
+      "gallery": [
+        "https://firebasestorage.googleapis.com/v0/b/audiophile-e-commerce-15eba.appspot.com/o/xx99-mark-two-headphones-image-gallery-1.jpg?alt=media&token=af70b5d1-00b1-4cd1-a50a-d0617d72a200",
+        "https://firebasestorage.googleapis.com/v0/b/audiophile-e-commerce-15eba.appspot.com/o/xx99-mark-two-headphones-image-gallery-2.jpg?alt=media&token=beb1ee9b-6e34-47c9-b762-7cb5486ec8d2",
+        "https://firebasestorage.googleapis.com/v0/b/audiophile-e-commerce-15eba.appspot.com/o/xx99-mark-two-headphones-image-gallery-3.jpg?alt=media&token=572d13e3-5d20-49ae-9bf5-442d1befe3a1"
+      ],
+      "inTheBox": [
+        {
+          "amount": "1x",
+          "item": "Headphone Unit"
+        },
+        {
+          "amount": "2x",
+          "item": "Replacement Earcups"
+        },
+        {
+          "amount": "1x",
+          "item": "User Manual"
+        },
+        {
+          "amount": "1x",
+          "item": "3.5mm 5m Audio Cable"
+        },
+        {
+          "amount": "1x",
+          "item": "Travel Bag"
+        }
+      ],
+      "price": "2999",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/audiophile-e-commerce-15eba.appspot.com/o/xx99-mark-two-headphones-image-product.jpg?alt=media&token=1b2399d4-a621-4f26-ad08-7d5cdab7a167",
+      "title": "XX99 Mark II Headphones"
+    }
+  },
+  "speakers": {
+    "zx9-speaker": {
+      "id": "zx9-speaker",
+      "description": "Upgrade your sound system with the all new ZX9 active speaker. It’s a bookshelf speaker system that offers truly wireless connectivity -- creating new possibilities for more pleasing and practical audio setups.",
+      "features": "Connect via Bluetooth or nearly any wired source. This speaker features optical, digital coaxial, USB Type-B, stereo RCA, and stereo XLR inputs, allowing you to have up to five wired source devices connected for easy switching. Improved bluetooth technology offers near lossless audio quality at up to 328ft (100m).\n\nDiscover clear, more natural sounding highs than the competition with ZX9’s signature planar diaphragm tweeter. More bass can be felt with its powerful room-shaking subwoofer. It even features dual connectivity with sub out and a sub in that lets you combine them with other speakers in the ZX series.",
+      "gallery": [
+        "https://firebasestorage.googleapis.com/v0/b/audiophile-e-commerce-15eba.appspot.com/o/zx9-speaker-image-gallery-1.jpg?alt=media&token=ccf6a7f4-1f18-49fb-8b0f-8e60a8c32a8d",
+        "https://firebasestorage.googleapis.com/v0/b/audiophile-e-commerce-15eba.appspot.com/o/zx9-speaker-image-gallery-2.jpg?alt=media&token=027ab86e-f491-4798-85db-7202db0c4f93",
+        "https://firebasestorage.googleapis.com/v0/b/audiophile-e-commerce-15eba.appspot.com/o/zx9-speaker-image-gallery-3.jpg?alt=media&token=17b38e0c-68ef-40e9-bf9f-cd2f18a3ffdb"
+      ],
+      "inTheBox": [
+        {
+          "amount": "2x",
+          "item": "Speaker Unit"
+        },
+        {
+          "amount": "2x",
+          "item": "Speaker Cloth Panel"
+        },
+        {
+          "amount": "1x",
+          "item": "User Manual"
+        },
+        {
+          "amount": "1x",
+          "item": "3.5mm 7.5m Audio Cable"
+        },
+        {
+          "amount": "1x",
+          "item": "10m Optical Cable"
+        }
+      ],
+      "price": "4500",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/audiophile-e-commerce-15eba.appspot.com/o/zx9-speaker-image-product.jpg?alt=media&token=4ca3b956-35dd-4059-8adc-4c2b2f670671",
+      "title": "ZX9 Speaker"
+    },
+    "zx7-speaker": {
+      "id": "zx7-speaker",
+      "description": "Stream high quality sound wirelessly with minimal loss. The ZX7 bookshelf speaker uses high-end audiophile components that represents the top of the line powered speakers for home or studio use.",
+      "features": "Reap the advantages of a flat diaphragm tweeter cone. This provides a fast response rate and excellent high frequencies that lower tiered bookshelf speakers cannot provide. The woofers are made from aluminum that produces a unique and clear sound. XLR inputs allow you to connect to a mixer for more advanced usage.\n\nThe ZX7 speaker is the perfect blend of stylish design and high performance. It houses an encased MDF wooden enclosure which minimises acoustic resonance. Dual connectivity allows pairing with a second ZX7 speaker for a stereo sound or connect to your TV or receiver for larger setups.",
+      "gallery": [
+        "https://firebasestorage.googleapis.com/v0/b/audiophile-e-commerce-15eba.appspot.com/o/zx7-speaker-image-gallery-1.jpg?alt=media&token=4d90c8b0-8656-4a87-bf37-06c3b6a9a99d",
+        "https://firebasestorage.googleapis.com/v0/b/audiophile-e-commerce-15eba.appspot.com/o/zx7-speaker-image-gallery-2.jpg?alt=media&token=5f230ac0-8bdb-4fef-9234-276d7dd98519",
+        "https://firebasestorage.googleapis.com/v0/b/audiophile-e-commerce-15eba.appspot.com/o/zx7-speaker-image-gallery-3.jpg?alt=media&token=89b3e49f-7b8b-474c-8600-5ed7cd8f54b7"
+      ],
+      "inTheBox": [
+        {
+          "amount": "2x",
+          "item": "Speaker Unit"
+        },
+        {
+          "amount": "2x",
+          "item": "Speaker Cloth Panel"
+        },
+        {
+          "amount": "1x",
+          "item": "User Manual"
+        },
+        {
+          "amount": "1x",
+          "item": "3.5mm 7.5m Audio Cable"
+        }
+      ],
+      "price": "3500",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/audiophile-e-commerce-15eba.appspot.com/o/zx7-speaker-image-product.jpg?alt=media&token=79d9bb95-4b37-48d7-916c-239e49a44a78",
+      "title": "ZX7 Speaker"
+    }
+  }
+}
