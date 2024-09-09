@@ -31,10 +31,10 @@ export default function OrderModal({ items, onCancel, deleteOrder }) {
           >
             Cancel
           </button>
-          <button className="btn btn-outline-secondary" onClick={deleteOrder}>
+          <button className="btn btn-outline-secondary" onClick={deleteOrder.bind(null, false)}>
             Decline
           </button>
-          <button className="btn btn-primary" onClick={deleteOrder}>
+          <button className="btn btn-primary" onClick={deleteOrder.bind(null, true)}>
             Accept
           </button>
         </div>

@@ -11,7 +11,22 @@ export default function OrdersTab({ orders }) {
     setIndex(id);
   }
 
-  function deleteOrder() {
+  function deleteOrder(status) {
+    const body = JSON.stringify({
+      email: ordersArray[index].customer.email,
+      status,
+    });
+
+    console.log(body);
+
+    fetch("http://localhost:3000/send-email", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body,
+    }).then(() => {});
+
     const db = getDatabase();
     const orderRef = ref(db, `orders/${ordersKeys[index]}`);
     remove(orderRef)

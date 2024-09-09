@@ -27,7 +27,7 @@ export default function Footer({ className }) {
         </div>
         <div className="mt-[55px]">
           <p className="p font-bold text-white opacity-50">
-            Copyright 2021. All Rights Reserved
+            Copyright 2024. All Rights Reserved
           </p>
         </div>
       </Container>
